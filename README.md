@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EzNoGame
-- 👀 I’m interested in learning alogrithm of C/C++
-- 🌱 I’m currently learning in grade 11
-- 📫 Reach me by email eznogame2gamil.com
+- 👀 I’m interested in learning C/C++
+- 🌱 I’m currently in high school
+- 📫 Reach me by email eznogame@gamil.com
 
 <!---
 EzNoGame/EzNoGame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
