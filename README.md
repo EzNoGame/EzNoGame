@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Eddie Zhang! An undergraduate student at McGill University!
 - tech skills:
--   C/C++
--   Python
--   Java
--   C#(Unity)
--   Gdscript(Godot)
+-   1. C/C++
+-   2. Python
+-   3. Java
+-   4. C#(Unity)
+-   5. Gdscript(Godot)
 - I am working on a personal game project called "lethal dose INC." at the giving moment
 - 📫 Reach me by email ez041126@gmail.com or discord: EzNoGame#0749
 
