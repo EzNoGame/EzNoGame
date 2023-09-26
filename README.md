@@ -2,7 +2,6 @@
 - tech skills:
 -   1. C/C++
 -   2. Python
--   3. Java
 -   4. C#(Unity)
 -   5. Gdscript(Godot)
 - I am working on a personal game project called "lethal dose INC." at the giving moment
