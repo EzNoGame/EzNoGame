@@ -4,7 +4,7 @@
 -   2. Python
 -   4. C#(Unity)
 -   5. Gdscript(Godot)
-- I am working on a personal game project called "lethal dose INC." at the giving moment
+- I am working on a personal game project called "Lethal Dose INC." at the giving moment
 - 📫 Reach me by email ez041126@gmail.com or discord: EzNoGame#0749
 
 <!---
